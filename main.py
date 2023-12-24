@@ -26,11 +26,6 @@ archer2 = Archer("2", 80, 15)
 soldier1.atack(archer1)
 archer1.atack(soldier2)
 
-print(archer1.health)
-print(soldier2.health)
-
-
-
 
 
 
